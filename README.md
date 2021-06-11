@@ -1,8 +1,15 @@
 ## Hello, 🌎! Welcome.
 
+
+
 <img align="right" src="https://github.com/vrct07/vrct07/blob/main/ilustra%C3%A7%C3%A3o-dev-summit.png" width="200"/>
 
+
+
 #### Hey! I'm Vitor Costa web developer passionate about experiences and mountains.
+
+
+
 
 * 📕 Graduating in systems analysis and development.
 * 🏊🏽‍♂️ Diving into the front-end and learning **HTML, CSS and JavaScript.**
