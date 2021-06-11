@@ -19,7 +19,7 @@
 </br>
 </br>
 </br>
-**Let's talk? ⤵️**
+**Let's talk?** ⤵️
 
 </br>
 
