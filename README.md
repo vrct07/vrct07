@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, 🌎! Welcome.
 
-<!--
-**vrct07/vrct07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hey! I'm Vitor Costa web developer passionate about experiences and mountains.
+
+• 📕 Graduating in systems analysis and development.
+• 🏊🏽‍♂️ Diving into the front-end and learning **HTML, CSS and JavaScript.**
+
+**Let's talk?**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/vrct07)](https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtovrct07@gmail.com)](mailto:vrct07@gmail.com)  [![](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=&logoColor=white&link=https://app.rocketseat.com.br/me/vitor-costa-04483)](https://app.rocketseat.com.br/me/vitor-costa-04483)
+<p align = "center">
+  <a href="https://github.com/vrct07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrct07&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/vrct07"><img src="https://github-readme-stats.vercel.app/api?username=vrct07&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="vrct07"/></a>
+</p> 
+
