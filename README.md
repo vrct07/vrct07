@@ -13,12 +13,14 @@
 
 * 📕 Graduating in systems analysis and development.
 * 🏊🏽‍♂️ Diving into the front-end and learning **HTML, CSS and JavaScript.**
+
 </br>
 </br>
 </br>
 </br>
 </br>
 </br>
+
 **Let's talk?** ⤵️
 
 </br>
