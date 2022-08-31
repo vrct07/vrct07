@@ -8,7 +8,7 @@
 
 #### Hey! I'm Vitor Costa web developer passionate about experiences, mountains and trains.
 
-</b
+</b>
 </br>
 
 * 📕 Graduating in systems analysis and development.
