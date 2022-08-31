@@ -6,9 +6,9 @@
 
 
 
-#### Hey! I'm Vitor Costa web developer passionate about experiences and mountains.
+#### Hey! I'm Vitor Costa web developer passionate about experiences, mountains and trains.
 
-</br>
+</b
 </br>
 
 * 📕 Graduating in systems analysis and development.
